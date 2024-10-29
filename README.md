@@ -1,4 +1,4 @@
-
+<div style="background-color: white; padding: 20px;">
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%B874C9&size=25&center=true&vCenter=true&width=433&height=75&lines=¡Hola!+Soy+Javiera+Ortega;Desarrolladora+Front-End;Diseñadora+UX;">
 </p>
@@ -33,3 +33,4 @@
 </p>
 </br></br>
 
+</div>
